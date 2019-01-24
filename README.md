@@ -10,3 +10,4 @@
   - git checkout 分支名 切换分支【-b 创建并切换
   - git branch 查看分支【-d 删除分支
   - git merge 分支名 HEAD与分支进行合并
+  - master
