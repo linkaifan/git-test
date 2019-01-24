@@ -11,3 +11,4 @@
   - git branch 查看分支【-d 删除分支
   - git merge 分支名 HEAD与分支进行合并
   - master
+  - test-cofilct
