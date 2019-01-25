@@ -10,5 +10,7 @@
   - git checkout 分支名 切换分支【-b 创建并切换
   - git branch 查看分支【-d 删除分支
   - git merge 分支名 HEAD与分支进行合并
-  - master
-  - test-cofilct
+  - git merge --no-ff -m "提交版本备注" 分支名 合并后的历史有分支，能看出来曾经做过合并，
+  - git stash 可以把当前工作现场“储藏”起来，等以后恢复现场后继续工作
+  - git stash list 查看“储藏”了的工作现场。
+  - git stash pop，恢复的同时把stash内容也删了
